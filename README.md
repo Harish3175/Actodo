@@ -1,3 +1,9 @@
+# Actodo 📝
+
+🚀 **Live Demo**: https://actodo-sigma-seven.vercel.app
+
+A React-based activity management app with login, signup, and daily task tracking built using Tailwind CSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
