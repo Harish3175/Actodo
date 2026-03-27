@@ -1,76 +1,49 @@
-# Actodo 📝
+# 📝 Actodo - Activity Management App
 
-🚀 **Live Demo**: https://actodo-sigma-seven.vercel.app
+## 🚀 Description
+Actodo is a simple activity management application built using React. It allows users to add, view, and manage their daily tasks in an easy and organized way.
 
-A React-based activity management app with login, signup, and daily task tracking built using Tailwind CSS.
+---
 
-# Getting Started with Create React App
+## 🛠️ Tech Stack
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## ✨ Features
+- Add new activities
+- View list of activities
+- Delete activities
+- Simple and clean user interface
+- Responsive design
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📂 Pages
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Login Page  
+- Signup Page  
+- Dashboard (Activity Management)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🧠 How It Works
+- Users can log in or sign up
+- Add daily activities using input field
+- Activities are displayed instantly
+- Users can remove completed tasks
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 💻 Screenshort
+- <img width="1920" height="955" alt="Screenshot 2026-03-27 190907" src="https://github.com/user-attachments/assets/1e7abc2d-afd6-45a5-8f01-c841ffe39733" />
+- <img width="1920" height="942" alt="Screenshot 2026-03-27 191021" src="https://github.com/user-attachments/assets/99afd93a-d1ee-47e7-8867-5f607f88334e" />
+- <img width="1920" height="939" alt="Screenshot 2026-03-27 191033" src="https://github.com/user-attachments/assets/012e070b-f3b7-4268-b463-e360a279b225" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+```bash
+npm install
+npm start
